@@ -12,7 +12,7 @@ This is a custom WordPress website developed for 3C PLUS. The project focused on
 - Custom Post Types
 
 ## Live Preview
-[https://[https://3cplusnow.com/](https://3cplusnow.com/)
+[https://https://3cplusnow.com/](https://3cplusnow.com/)
 
 ## My Role
 - Full website development
